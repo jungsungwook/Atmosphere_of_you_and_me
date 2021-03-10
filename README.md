@@ -8,5 +8,5 @@
 >1. TensorFlow
 >2. Keras, KoNLPy
 >3. python, C#(Unity)
-## 개발절차
-=============
+## ● 개발절차
+
